@@ -1,23 +1,24 @@
-# 五子棋游戏 Gomoku 🎮  
+# 五子棋游戏 Gomoku 🎮
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)  
-![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green.svg)  
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-一款基于Python和Pygame实现的五子棋人机对战游戏  
+一款基于 Python 和 Pygame 实现的五子棋人机对战游戏
 
-## ✨ 项目特点  
+## ✨ 项目特点
 
-- 🎮 经典15×15五子棋棋盘  
-- 🤖 智能AI对手（含简单评估算法）  
-- 🖱️ 直观的鼠标操作界面  
-- 🏆 自动胜负判定  
-- 🔄 一键重新开始  
-- 🎨 简洁美观的视觉设计  
+- 🎮 经典 15×15 五子棋棋盘
+- 🤖 智能 AI 对手（含简单评估算法）
+- 🖱️ 直观的鼠标操作界面
+- 🏆 自动胜负判定
+- 🔄 一键重新开始
+- 🎨 简洁美观的视觉设计
 
-## 📦 快速开始  
+## 📦 快速开始
 
-### 安装依赖  
+### 安装依赖
+
 ```bash
 pip install -r requirements.txt
 运行游戏
@@ -25,7 +26,8 @@ bash
 复制
 python main.py
 🖥️ 游戏截图
-游戏界面截图
+![screenshot](https://github.com/user-attachments/assets/22410c90-5cc3-4246-b9a3-7329be78d0be)
+
 
 📂 项目结构
 复制
@@ -55,14 +57,14 @@ NumPy
 👨‍💻 关于作者
 鲁健
 南京邮电大学 计算机科学与技术专业
-GitHub主页
+GitHub 主页
 ✉️ lujian@email.com
 
 📜 开源协议
 本项目采用 MIT License 开源
 
 🤝 贡献指南
-欢迎提交Issue和Pull Request！
+欢迎提交 Issue 和 Pull Request！
 贡献前请先阅读贡献指南
 
 🚀 未来计划
@@ -75,3 +77,5 @@ GitHub主页
 加入游戏音效
 
 添加战绩记录系统
+
+⭐ 欢迎 Star 和 Fork！如有任何问题，请提交 Issue。
