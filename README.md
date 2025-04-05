@@ -55,10 +55,15 @@ python main.py
 复制
 gomoku/
 ├── main.py          # 主程序入口
+
 ├── init.py          # 游戏初始化和常量定义
+
 ├── draw.py          # 绘制游戏界面
+
 ├── logic.py         # 游戏逻辑和AI实现
+
 ├── README.md        # 说明文档
+
 └── requirements.txt # 依赖列表
 开发者
 
