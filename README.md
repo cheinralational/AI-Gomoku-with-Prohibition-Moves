@@ -1,27 +1,24 @@
-五子棋游戏 Gomoku 🎮
-Python
-Pygame
-License
+# 五子棋游戏 Gomoku 🎮  
 
-一款基于Python和Pygame实现的五子棋人机对战游戏
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)  
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green.svg)  
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
-✨ 项目特点
-🎮 经典15×15五子棋棋盘
+一款基于Python和Pygame实现的五子棋人机对战游戏  
 
-🤖 智能AI对手（含简单评估算法）
+## ✨ 项目特点  
 
-🖱️ 直观的鼠标操作界面
+- 🎮 经典15×15五子棋棋盘  
+- 🤖 智能AI对手（含简单评估算法）  
+- 🖱️ 直观的鼠标操作界面  
+- 🏆 自动胜负判定  
+- 🔄 一键重新开始  
+- 🎨 简洁美观的视觉设计  
 
-🏆 自动胜负判定
+## 📦 快速开始  
 
-🔄 一键重新开始
-
-🎨 简洁美观的视觉设计
-
-📦 快速开始
-安装依赖
-bash
-复制
+### 安装依赖  
+```bash
 pip install -r requirements.txt
 运行游戏
 bash
@@ -78,5 +75,3 @@ GitHub主页
 加入游戏音效
 
 添加战绩记录系统
-
-⭐ 欢迎Star和Fork！如有任何问题，请提交Issue。
