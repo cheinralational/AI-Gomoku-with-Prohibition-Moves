@@ -25,7 +25,7 @@ bash
 复制
 python main.py
 🖥️ 游戏截图
-![功能演示](/screenshot.png)
+![游戏截图](screenshot.png)
 
 📂 项目结构
 复制
