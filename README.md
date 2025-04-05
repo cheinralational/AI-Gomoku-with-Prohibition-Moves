@@ -24,10 +24,10 @@ pip install -r requirements.txt
 bash
 复制
 python main.py
-🖥️ 游戏截图
+#### 🖥️ 游戏截图
 ![游戏截图](screenshot.png)
 
-📂 项目结构
+#### 📂 项目结构
 复制
 Gomoku/
 ├── main.py          # 主程序入口
@@ -36,7 +36,7 @@ Gomoku/
 ├── logic.py         # 游戏逻辑和AI算法
 ├── requirements.txt # 依赖库列表
 └── README.md        # 项目文档
-🕹️ 操作说明
+### 🕹️ 操作说明
 鼠标点击棋盘放置白棋
 
 电脑会自动下黑棋
@@ -45,27 +45,27 @@ Gomoku/
 
 点击"重新开始"按钮重置游戏
 
-🛠️ 技术栈
+### 🛠️ 技术栈
 Python 3.9+
 
 Pygame 2.6.1
 
 NumPy
 
-👨‍💻 关于作者
+### 👨‍💻 关于作者
 鲁健
 南京邮电大学 计算机科学与技术专业
 GitHub主页
 ✉️ b21041427@njupt.com
 
-📜 开源协议
+### 📜 开源协议
 本项目采用 MIT License 开源
 
-🤝 贡献指南
+### 🤝 贡献指南
 欢迎提交Issue和Pull Request！
 贡献前请先阅读贡献指南
 
-🚀 未来计划
+### 🚀 未来计划
 增加难度等级
 
 添加双人对战模式
