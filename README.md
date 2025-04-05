@@ -17,15 +17,14 @@
 
 ## 📦 快速开始  
 
-### 安装依赖  
+# 安装依赖  
 pip install -r requirements.txt
-运行游戏
+# 运行游戏
 python main.py
 ## 🖥️ 游戏截图
 ![游戏截图](screenshot.png)
 
 #### 📂 项目结构
-复制
 Gomoku/
 ├── main.py          # 主程序入口
 ├── init.py          # 游戏初始化和常量配置
