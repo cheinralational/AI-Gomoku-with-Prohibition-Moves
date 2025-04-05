@@ -18,13 +18,10 @@
 ## 📦 快速开始  
 
 ### 安装依赖  
-```bash
 pip install -r requirements.txt
 运行游戏
-bash
-复制
 python main.py
-#### 🖥️ 游戏截图
+## 🖥️ 游戏截图
 ![游戏截图](screenshot.png)
 
 #### 📂 项目结构
@@ -76,4 +73,4 @@ GitHub主页
 
 添加战绩记录系统
 
-⭐ 欢迎Star和Fork！如有任何问题，请提交Issue。
+### ⭐ 欢迎Star和Fork！如有任何问题，请提交Issue。
