@@ -54,6 +54,7 @@ python main.py
 项目结构
 复制
 gomoku/
+
 ├── main.py          # 主程序入口
 
 ├── init.py          # 游戏初始化和常量定义
