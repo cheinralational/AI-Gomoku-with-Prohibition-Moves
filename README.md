@@ -25,12 +25,19 @@ python main.py
 ![游戏截图](screenshot.png)
 
 ## 📂 项目结构
+
 Gomoku/
+
 ├── main.py          # 主程序入口
+
 ├── init.py          # 游戏初始化和常量配置
+
 ├── draw.py          # 游戏界面绘制
+
 ├── logic.py         # 游戏逻辑和AI算法
+
 ├── requirements.txt # 依赖库列表
+
 └── README.md        # 项目文档
 ## 🕹️ 操作说明
 鼠标点击棋盘放置白棋
