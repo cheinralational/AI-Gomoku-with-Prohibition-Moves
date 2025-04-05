@@ -1,91 +1,82 @@
-这是一个基于Python和Pygame实现的五子棋游戏，具有以下特点：
+五子棋游戏 Gomoku 🎮
+Python
+Pygame
+License
 
-人机对战模式
+一款基于Python和Pygame实现的五子棋人机对战游戏
 
-智能AI对手
+✨ 项目特点
+🎮 经典15×15五子棋棋盘
 
-重新开始游戏功能
+🤖 智能AI对手（含简单评估算法）
 
-最后落子位置标记
+🖱️ 直观的鼠标操作界面
 
-胜负判定
+🏆 自动胜负判定
 
-功能特性
-🎮 传统15×15五子棋棋盘
+🔄 一键重新开始
 
-🤖 具备简单AI逻辑的电脑对手
+🎨 简洁美观的视觉设计
 
-🖱️ 鼠标点击操作
-
-🔄 一键重新开始游戏
-
-🏆 自动判定胜负
-
-🎨 简洁美观的界面
-
-运行要求
-Python 3.6+
-
-Pygame 2.0+
-
-安装步骤
-克隆仓库或下载源代码
-
-复制
-git clone https://github.com/yourusername/gomoku.git
-cd gomoku
+📦 快速开始
 安装依赖
-
+bash
 复制
-pip install pygame numpy
+pip install -r requirements.txt
 运行游戏
-
+bash
 复制
 python main.py
-游戏操作说明
+🖥️ 游戏截图
+游戏界面截图
+
+📂 项目结构
+复制
+Gomoku/
+├── main.py          # 主程序入口
+├── init.py          # 游戏初始化和常量配置
+├── draw.py          # 游戏界面绘制
+├── logic.py         # 游戏逻辑和AI算法
+├── requirements.txt # 依赖库列表
+└── README.md        # 项目文档
+🕹️ 操作说明
 鼠标点击棋盘放置白棋
 
 电脑会自动下黑棋
 
+五子连珠即获胜
+
 点击"重新开始"按钮重置游戏
 
-游戏会自动判定五子连珠情况
+🛠️ 技术栈
+Python 3.9+
 
-项目结构
-复制
-gomoku/
+Pygame 2.6.1
 
-├── main.py          # 主程序入口
+NumPy
 
-├── init.py          # 游戏初始化和常量定义
+👨‍💻 关于作者
+鲁健
+南京邮电大学 计算机科学与技术专业
+GitHub主页
+✉️ lujian@email.com
 
-├── draw.py          # 绘制游戏界面
+📜 开源协议
+本项目采用 MIT License 开源
 
-├── logic.py         # 游戏逻辑和AI实现
-
-├── README.md        # 说明文档
-
-└── requirements.txt # 依赖列表
-开发者
-
-南京邮电大学-鲁健
-
-许可证
-
-MIT License
-
-未来计划
-
-1.增加难度选择
-
-2.添加双人对战模式
-
-3.实现悔棋功能
-
-4.添加音效和动画效果
-
-5.支持保存和加载游戏
-
-贡献指南
+🤝 贡献指南
 欢迎提交Issue和Pull Request！
+贡献前请先阅读贡献指南
 
+🚀 未来计划
+增加难度等级
+
+添加双人对战模式
+
+实现悔棋功能
+
+加入游戏音效
+
+添加战绩记录系统
+
+⭐ 欢迎Star和Fork！如有任何问题，请提交Issue。
